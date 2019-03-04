@@ -1,7 +1,7 @@
- DROP DATABASE IF EXISTS `deardoctor_db`;
- CREATE DATABASE `deardoctor_db`;
+ DROP DATABASE IF EXISTS `xcucy7rni49s71ya`;
+ CREATE DATABASE `xcucy7rni49s71ya`;
 
-USE `deardoctor_db`;
+USE `xcucy7rni49s71ya`;
 
   CREATE TABLE `users`
   	(
